@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "2.4.0"
 }
 
-group = "org.example"
+group = "com.dawit.assignment2"
 version = "1.0-SNAPSHOT"
 
 repositories {
